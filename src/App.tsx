@@ -525,7 +525,7 @@ function App() {
         <div className="container mx-auto grid md:grid-cols-4 gap-8">
           <div className="flex justify-center items-center">
             <img
-              src="https://i.ibb.co/xtWKLdJv/labali.png"
+              src="https://i.ibb.co/fzZmW7rX/Full-Logo.jpg"
               alt="Poshana Logo"
               className="h-20 w-43 mb-6 rounded-lg border-8 border-white"
             />
