@@ -21,7 +21,7 @@ function App() {
         <div className="container mx-auto flex justify-between items-center">
           <div className="flex items-center">
             <img
-              src="/SRC/Full_Logo.jpg"
+              src="https://i.ibb.co/fzZmW7rX/Full-Logo.jpg"
               alt="Poshana Logo"
               className="h-10 md:h-12 transition-transform duration-300 hover:scale-110"
             />
@@ -137,7 +137,7 @@ function App() {
               {' '}
               Features
             </h2>
-            <img src="/SRC/jj1.png" alt="Poshana Logo" className="h-20 w-20" />
+            <img src="https://i.ibb.co/Nfr4gzL/jj1.png" alt="Poshana Logo" className="h-20 w-20" />
           </div>
 
           <p className="text-2xl font-manrope font-bold text-transparent bg-gradient-to-r from-[#FF6A00] to-[#FF3E00] bg-clip-text mt-2">
@@ -161,7 +161,7 @@ function App() {
             <div className="bg-[#8AC5DD] rounded-lg p-6 shadow-2xl transition-transform duration-300 hover:scale-105">
               <div className="w-full h-48 bg-white flex items-center justify-center mx-auto mb-6 rounded-lg overflow-hidden">
                 <img
-                  src="/SRC/Pic01.png"
+                  src="https://i.ibb.co/ycZF03QG/Pic01.png"
                   alt="Feature 1"
                   className="w-full h-full object-cover"
                 />
@@ -183,7 +183,7 @@ function App() {
             <div className="bg-[#8AC5DD] rounded-lg p-6 shadow-2xl transition-transform duration-300 hover:scale-105">
               <div className="w-full h-48 bg-white flex items-center justify-center mx-auto mb-6 rounded-lg overflow-hidden">
                 <img
-                  src="/SRC/Pic02.png"
+                  src="https://i.ibb.co/6JgVVc3G/Pic02.png"
                   alt="Feature 2"
                   className="w-full h-full object-cover"
                 />
@@ -205,7 +205,7 @@ function App() {
             <div className="bg-[#8AC5DD] rounded-lg p-6 shadow-2xl transition-transform duration-300 hover:scale-105">
               <div className="w-full h-48 bg-white flex items-center justify-center mx-auto mb-6 rounded-lg overflow-hidden">
                 <img
-                  src="//SRCPic03.png"
+                  src="https://i.ibb.co/tPTFmTRp/Pic03.png"
                   alt="Feature 3"
                   className="w-full h-full object-cover"
                 />
@@ -227,7 +227,7 @@ function App() {
             <div className="bg-[#8AC5DD] rounded-lg p-6 shadow-2xl transition-transform duration-300 hover:scale-105">
               <div className="w-full h-48 bg-white flex items-center justify-center mx-auto mb-6 rounded-lg overflow-hidden">
                 <img
-                  src="//SRCPic04.png"
+                  src="https://i.ibb.co/HTZ29kw9/Pic04.png"
                   alt="Feature 4"
                   className="w-30 h-full object-cover"
                 />
@@ -248,7 +248,7 @@ function App() {
             <div className="bg-[#8AC5DD] rounded-lg p-6 shadow-2xl transition-transform duration-300 hover:scale-105">
               <div className="w-full h-48 bg-white flex items-center justify-center mx-auto mb-6 rounded-lg overflow-hidden">
                 <img
-                  src="//SRCPic05.png"
+                  src="https://i.ibb.co/wN6k7ymc/Pic05.png"
                   alt="Feature 5"
                   className="w-full h-full object-cover"
                 />
@@ -270,7 +270,7 @@ function App() {
             <div className="bg-[#8AC5DD] rounded-lg p-6 shadow-2xl transition-transform duration-300 hover:scale-105">
               <div className="w-full h-48 bg-white flex items-center justify-center mx-auto mb-6 rounded-lg overflow-hidden">
                 <img
-                  src="//SRCPic06.png"
+                  src="https://i.ibb.co/2mYRLBZ/Pic06.png"
                   alt="Feature 6"
                   className="w-full h-full object-cover"
                 />
@@ -293,7 +293,7 @@ function App() {
             <div className="bg-[#8AC5DD] rounded-lg p-6 shadow-2xl transition-transform duration-300 hover:scale-105">
               <div className="w-full h-48 bg-white flex items-center justify-center mx-auto mb-6 rounded-lg overflow-hidden">
                 <img
-                  src="//SRCPic07.png"
+                  src="https://i.ibb.co/sJ39N3vx/Pic07.png"
                   alt="Feature 7"
                   className="w-30 h-full object-cover"
                 />
@@ -316,7 +316,7 @@ function App() {
             <div className="bg-[#8AC5DD] rounded-lg p-6 shadow-2xl transition-transform duration-300 hover:scale-105">
               <div className="w-full h-48 bg-white flex items-center justify-center mx-auto mb-6 rounded-lg overflow-hidden">
                 <img
-                  src="//SRCPic08.png"
+                  src="https://i.ibb.co/mr2BH1Rv/Pic08.png"
                   alt="Feature 8"
                   className="w-30 h-full object-cover"
                 />
@@ -338,7 +338,7 @@ function App() {
             <div className="bg-[#8AC5DD] rounded-lg p-6 shadow-2xl transition-transform duration-300 hover:scale-105">
               <div className="w-full h-48 bg-white flex items-center justify-center mx-auto mb-6 rounded-lg overflow-hidden">
                 <img
-                  src="//SRCPic09.png"
+                  src="https://i.ibb.co/kVtz2Cjt/Pic09.png"
                   alt="Feature 9"
                   className="w-30 h-full object-cover"
                 />
@@ -367,7 +367,7 @@ function App() {
         <div className="container mx-auto px-4 grid md:grid-cols-2 gap-12 items-center relative z-10">
           <div className="text-center md:text-left">
             <img
-              src="//SRCwhite_logo.png"
+              src="https://i.ibb.co/jPLGR8Vv/white-logo.png"
               alt="Poshana Logo"
               className="h-16 mb-6 mx-auto md:mx-0"
             />
@@ -425,7 +425,7 @@ function App() {
 
             {/* Image */}
             <img
-              src="//SRCgroups.png"
+              src="https://i.ibb.co/BKPsWyss/Groups.png"
               alt="About Us Character"
               className="rounded-lg shadow-2xl transform hover:scale-105 transition-all duration-300"
             />
@@ -502,7 +502,7 @@ function App() {
         {/* Floating Decoration Image - Adjusted for left-aligned positioning */}
         <div className="absolute top-0 left-0 transform translate-x-0 translate-y-0 z-0">
           <img
-            src="//SRCAbstract-Design.png"
+            src="https://i.ibb.co/wFVmL19R/Abstract-Design.png"
             alt="Decoration"
             className="h-auto w-64 md:w-80"
           />
@@ -513,7 +513,7 @@ function App() {
       <section className="bg-white py-8">
         <div className="container mx-auto px-40">
           <img
-            src="//SRClabali.png"
+            src="https://i.ibb.co/xtWKLdJv/labali.png"
             alt="About Us Character"
             className="rounded-lg shadow-xl"
           />
@@ -525,7 +525,7 @@ function App() {
         <div className="container mx-auto grid md:grid-cols-4 gap-8">
           <div className="flex justify-center items-center">
             <img
-              src="//SRCFull_Logo.jpg"
+              src="https://i.ibb.co/xtWKLdJv/labali.png"
               alt="Poshana Logo"
               className="h-20 w-43 mb-6 rounded-lg border-8 border-white"
             />
